@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4e5720275215c289a253709b",
+  "owner": "ravpnhu8u",
+  "repo": "page-453421116d248d1fd047b9db",
+  "title": "飞一般(FMVP)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "453421116d248d1fd047b9db",
+      "a": "飞一般(FMVP)",
+      "b": "稳定全球clash加速器",
+      "entity": "飞一般(FMVP)",
+      "brand": "飞一般(FMVP)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "258cadff27b5ab1a17b042af4bcf4f3312939da367188e220b5447bf72ca2771",
+      "content": {
+        "primary_entity": "飞一般(FMVP)",
+        "keyword1": "飞一般(FMVP)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "在 Clash Verge、ClashX、Clash for Windows 等客户端导入订阅地址即可使用，按设备系统选择对应版本。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑好套餐，复制订阅地址到 Clash 客户端就能开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，导入订阅",
+          "AI_DESCRIPTION": "，飞一般(FMVP)面向需要稳定全球加速的用户，提供基础版、旗舰版、团队版三档方案。基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB 流量、5 台设备，含 IPLC 专线游戏加速优化与全节点原生流媒体解锁；团队版每月 1000GB 流量、20 台设备，支持企业定制路由。按年付可享优惠价格，订阅导入 Clash 客户端后即可按套餐权益使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数量和线路类型出发，三档套餐覆盖个人到团队的不同需求。",
+          "AI_FEATURES_TITLE": "套餐要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合个人日常浏览与基础流媒体。年付 ¥150。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，IPLC 专线侧重游戏加速，全节点流媒体解锁。年付 ¥350。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，VIP 高带宽节点并可定制企业路由。年付 ¥850。",
+          "AI_FEATURE_TITLE_1": "按需选流量",
+          "AI_FEATURE_TITLE_2": "旗舰线路优势",
+          "AI_FEATURE_TITLE_3": "团队多设备",
+          "AI_GUIDE_INTRO": "从确认需求到在 Clash 客户端完成订阅配置，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "飞一般(FMVP)提供多档全球加速套餐，基础版、旗舰版与团队版分别覆盖个人、进阶用户和小团队。选择流量和设备数合适的方案，按年付更划算，再依客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，稳定全球加速",
+          "AI_HIGHLIGHT_1": "三档套餐灵活匹配",
+          "AI_HIGHLIGHT_2": "IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "支持 3 到 20 台设备",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；按年付分别为 ¥150、¥350、¥850。流量、设备数与线路类型逐档提升，按实际用量选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确认每月大致流量与需要同时在线的设备数量，再对照三档套餐的流量和设备的数值。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，如设备系统、客户端类型和线路偏好，确认与自己的使用场景匹配。",
+          "AI_STEP_TEXT_3": "依对应 Clash 客户端文档导入订阅地址，完成配置后按套餐权益使用全球节点。",
+          "AI_STEP_TITLE_1": "明确需求",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "飞一般套餐选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "飞一般（FMVP）套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "支持从基础版升级至旗舰版或团队版，补足差价后剩余流量与设备数按新套餐规则计算。",
+          "AI_FAQ_QUESTION_2": "一个订阅可以同时在几台设备使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台同时在线，超出数量需要升级套餐。",
+          "AI_FAQ_QUESTION_3": "年付与月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付按十个月费用计算，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，比月付更划算。",
+          "AI_FAQ_QUESTION_4": "旗舰版的 IPLC 专线有什么好处？",
+          "AI_FAQ_ANSWER_4": "IPLC 专线优化游戏延迟与流媒体播放，减少高峰时段拥塞，适合对速度要求较高的用户。",
+          "AI_FAQ_QUESTION_5": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_5": "在客户端中选择添加订阅，粘贴订阅地址并更新，按文档说明完成配置即可使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "afsak.cn",
+    "host": "afsak.cn"
+  },
+  "file_hashes": {
+    "index.html": "c9d61e196e5c3d76f4ace68d1cc1ccf7c5a688516ac25e66b9bdc3042ea71419",
+    "sitemap.xml": "97eeb9745563a49ae5ddc1ca4c116661728510ab354f22f92884eb323fab4b5f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e77fc12f2cf762ded8914441139575963f681d6b892d2e020bd589cd1222be5b",
+    "robots.txt": "52b779a22f8a8a788309e2e6ae0c30605b023462cac340f07cbaac93cc9585ce",
+    "47023329649b8ea1ae6dc3f94df215b8.txt": "cc62970eee2ebd2e6b94c1a02c3e2de29b5700b312b45570c08a1ef708a5f31b"
+  },
+  "revision": "5d174efab4bc460f810457656a761af60ea444c1a5168f7fea8707574c99115e"
+}
